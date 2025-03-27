@@ -18,6 +18,4 @@ These 3 classes are very helpful in real-time applications and classification.
 
 The test data set contains a mere 29 images to encourage the use of real-world test images.
 ### 3. Architecture design:
-Customized EfficientNet B0
-
-Performed hyperparameter tuning to improve sentiment polarity accuracy by analyzing time and accuracy across different network architectures and batch sizes
+Customized a dataset class and neural network for image classifier, achieving 97\% accuracy
